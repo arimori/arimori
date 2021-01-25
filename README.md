@@ -4,8 +4,8 @@
 <a href="https://br.linkedin.com/in/naoshi-arimori-624763173">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://br.linkedin.com/in/naoshi-arimori-624763173/)](https://br.linkedin.com/in/naoshi-arimori-624763173)
 
-Full Stack Developer, currently working on the @sodrelaboratorio's team
+Full Stack Developer, currently working on the @pagoufacil's team
 
 - 🔭 I’m currently working with `C#` and .NET CORE
-- 🌱 I’m currently learning JavaScript (React, React Native and Node
-- ⚡ Languages: C#, JavaScript, TypeScript, SQL Server
+- 🌱 I’m currently learning JavaScript (using React, Angular 8+, React Native and Node)
+- ⚡ Languages: C#, .NET CORE, JavaScript, SQL Server, MySQL
