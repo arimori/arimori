@@ -3,6 +3,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-naoshiarimori@gmail.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naoshiarimori@gmail.com.br)](mailto:naoshiarimori@gmail.com.br)
 <a href="https://br.linkedin.com/in/naoshi-arimori-624763173">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://br.linkedin.com/in/naoshi-arimori-624763173/)](https://br.linkedin.com/in/naoshi-arimori-624763173)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 
 Full Stack Developer, currently working on the @pagoufacil's team
 
