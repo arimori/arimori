@@ -6,6 +6,6 @@
 
 Full Stack Developer, currently working on the @pagoufacil's team
 
-- 🔭 I’m currently working with `C#` and `.NET CORE`
-- 🌱 I’m currently learning JavaScript (using React, Angular 8+, React Native and Node)
-- ⚡ Languages: C#, JavaScript, SQL Server, MySQL
+- 🔭 I’m currently working with `.NET CORE` and `Angular 8+` on a finantial product helping people to manage credit recovery.
+- 🌱 I've been spent some time learning more and more about `javascript` frameworks, such as `React`, `Angular`, `React Native` and `Node`.
+- ⚡ Languages: C#, JavaScript and SQL
