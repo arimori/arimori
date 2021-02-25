@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-naoshiarimori@gmail.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naoshiarimori@gmail.com.br)](mailto:naoshiarimori@gmail.com.br)
 <a href="www.linkedin.com/in/naoshi">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://br.linkedin.com/in/naoshi-arimori-624763173/)](https://br.linkedin.com/in/naoshi-arimori-624763173)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/naoshi/)](https://br.linkedin.com/in/naoshi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
