@@ -20,10 +20,10 @@ Full Stack Developer, currently working on the @pagoufacil's team
 ### Github Stats 🛠 &nbsp;
 
 <p align="left">
-  <a href="https://github.com/NaoshiAC">
-   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaoshiAC&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=issues,contribs" />
+  <a href="https://github.com/arimori">
+   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arimori&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=issues,contribs" />
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoshiAC&&layout=compact&theme=vue-dark" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimori&&layout=compact&theme=vue-dark" />
    </a>
  </p>
  
