@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/naoshi/)](https://br.linkedin.com/in/naoshi)
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 
-Front end developer currently working on @pagoufacil's team
+Front end developer currently working on @pagoufacil team
 
 - 🛠 I’m currently working with `.NET CORE` and `Angular 8+` on a finantial product helping people to manage credit recovery.
 - 🎨 I've been learning more about `javascript` frameworks, such as `ReactJS` and `Angular 8+` for web,  `React Native` for mobile applications and `NodeJS` to build Rest APIs.
