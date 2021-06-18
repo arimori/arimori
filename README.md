@@ -9,7 +9,7 @@ Front end developer currently working on [Pagou Fácil](http://www.pagoufacil.co
 
 - 🛠 I’m currently working with `.NET CORE` and `Angular 8+` on a finantial product helping people to manage credit recovery.
 - 🎨 I've been learning more about `javascript` frameworks, such as `React`, `NextJS` and `Angular 8+` for web,  `React Native` for mobile applications and `NodeJS` to build Rest APIs.
-- ⚡ Languages: Javascript, Typescript, C# and SQL.
+- ⚡ Languages: `Javascript`, `Typescript`, `C#` and `SQL`.
 
 
 ### Github Stats 🛠 &nbsp;
