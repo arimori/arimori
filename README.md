@@ -7,7 +7,7 @@
 
 Front end developer currently working on [WDG Automation](http://www.wdgautomation.com).
 
-- 🛠 I’m currently working with `.NET CORE` and `Angular 8+` on a finantial product helping people to manage credit recovery.
+- 🛠 I’m currently working with `React` robotic process automation solution.
 - 🎨 I've been learning more about `javascript` frameworks, such as `React`, `NextJS` and `Angular 8+` for web,  `React Native` for mobile applications and `NodeJS` to build `RESTful APIs`.
 - ⚡ Languages: `Javascript`, `Typescript`, `C#` and `SQL`.
 - 🚀 Libs: `React`, `NextJS`, `Angular 8+` and `React Native`.
