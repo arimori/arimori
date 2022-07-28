@@ -5,9 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/naoshi/)](https://br.linkedin.com/in/naoshi)
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 
-Front end developer currently working on [WDG Automation](http://www.wdgautomation.com).
+Front end developer currently working at [IBM RPA](https://www.ibm.com/br-pt/products/robotic-process-automation?utm_content=SRCWW&p1=Search&p4=43700064630084004&p5=e&gclid=EAIaIQobChMIhYqQ6sGb-QIVgkJIAB0gBgBLEAAYASAAEgKzyPD_BwE&gclsrc=aw.ds).
 
-- 🛠 I’m currently working with `React` robotic process automation solution.
+- 🛠 I’m currently working with `React`.
 - 🎨 I've been learning more about `javascript` frameworks, such as `React`, `NextJS` and `Angular 8+` for web,  `React Native` for mobile applications and `NodeJS` to build `RESTful APIs`.
 - ⚡ Languages: `Javascript`, `Typescript`, `C#` and `SQL`.
 - 🚀 Libs: `React`, `NextJS`, `Angular 8+` and `React Native`.
